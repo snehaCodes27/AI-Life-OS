@@ -1,6 +1,4 @@
 
-# AI Life OS
-
 AI Life OS is an AI-powered email management and productivity assistant built using Make.com, Groq Llama 3, Gmail, Google Sheets, and HTTP APIs.
 
 ## Features
