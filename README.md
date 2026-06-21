@@ -1,4 +1,3 @@
-# AI-Life-OS
 
 # AI Life OS
 
